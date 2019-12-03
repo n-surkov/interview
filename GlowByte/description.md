@@ -1,4 +1,4 @@
-#задание от [GlowByte](https://glowbyteconsulting.com)
+# Задание от [GlowByte](https://glowbyteconsulting.com)
 
 **Задача**: По записанным данным датчиков спрогнозировать отказ мотора на следующем цикле.
 
